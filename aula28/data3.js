@@ -30,3 +30,5 @@ case 6:
 default:
     diaSemanaTexto = '';
 }
+
+console.log(diaSemana, diaSemanaTexto);
