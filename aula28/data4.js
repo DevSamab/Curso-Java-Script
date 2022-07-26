@@ -1,6 +1,7 @@
 //Estrutura switch case dentro de uma função, assim ela pode ser usada em outras partes do código.
 function getDiaSemanaTexto(diaSemana) {
-    let diaSemanaTexto;
+    
+  let diaSemanaTexto;
 
     switch (diaSemana) {
     case 0:
