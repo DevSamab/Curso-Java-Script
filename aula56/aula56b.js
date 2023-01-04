@@ -30,3 +30,4 @@ console.log(p1.sobrenome); // Assume Oliveira Silva por causa do set
 console.log(p1.fala()); // Como não declarei com get, preciso chamar como função, com parênteses.
 console.log(p1.imc); // Aqui eu pude chamar a função IMC sem os parênteses pq ao declarar com get, ao chamar eu trago apenas o seu valor.
 console.log(`Você se chama ${this}`)
+console.log(p1.nomeCompleto);
