@@ -24,9 +24,9 @@ body {
     background: #fff;
     padding: 20px;
     border-radius: 10px ;
-    }
+}
 
-form input, form label, form button {
+/*form input, form label, form button {
     display: block;
     width: 100%;
     margin-bottom: 10px;
@@ -55,4 +55,27 @@ form button {
 
 form button:hover {
     background: var(--primary-color-darker);
+}*/
+
+.calculadora {
+    width: 400px;
+}
+
+.display {
+    font-size: 2em;
+    width: 100%;
+    text-align: right;
+}
+
+.btn {
+    width: 100%;
+    height: 40px;
+    font-size: 1em;
+    border: none;
+    background-color: #dfdfdf;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #b3b3b3;
 }
