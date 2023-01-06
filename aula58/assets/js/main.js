@@ -36,14 +36,14 @@ function Calculadora() {
             const conta = eval(this.display.value);
 
             if (!conta) {
-                alert('Conta inválida.');
+                alert('Conta inválida!');
                 return;
             }
 
             this.display.value = conta;
 
         } catch {
-            alert('Conta inválida.');
+            alert('Conta inválida!');
             return;
         }
     };
