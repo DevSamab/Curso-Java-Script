@@ -18,44 +18,17 @@ body {
     line-height: 1.5em;
 }
 
+h1 {
+    text-align: center;
+}
+
 .container {
     max-width: 640px;
     margin: 50px auto;
     background: #fff;
     padding: 20px;
-    border-radius: 10px ;
+    border-radius: 10px;
 }
-
-/*form input, form label, form button {
-    display: block;
-    width: 100%;
-    margin-bottom: 10px;
-}
-
-form input {
-    font-size: 20px;
-    height: 40px;
-    padding: 0 20px;
-}
-
-form input:focus {
-    outline: 1px solid var(--primary-color);
-}
-
-form button {
-    border: none;
-    background: var(--primary-color);
-    color: #fff;
-    font-size: 18px;
-    font-weight: 700;
-    height: 50px;
-    cursor: pointer;
-    margin-top: 25px;
-}
-
-form button:hover {
-    background: var(--primary-color-darker);
-}*/
 
 .calculadora {
     width: 400px;
@@ -78,4 +51,12 @@ form button:hover {
 
 .btn:hover {
     background-color: #b3b3b3;
+}
+
+.btn-eq {
+    background: rgb(138, 138, 206);
+}
+
+.btn-eq:hover {
+    background: rgba(50, 50, 129, 0.904);
 }
