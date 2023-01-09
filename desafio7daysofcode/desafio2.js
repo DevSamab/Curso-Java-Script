@@ -1,6 +1,6 @@
 const name = prompt('Olá! Para começarmos, me diga seu nome:');
 const age = prompt(`Oi, ${name || 'você não quis me dizer seu nome, mas'}, prazer em conhecê-lo. Qual a sua idade?`);
-const learn = prompt(`OK! ${name || ''} Qual linguagem de programação você está estudando?`);
+const learn = prompt(`OK, ${name || 'amigo secreto'}, qual linguagem de programação você está estudando?`);
 
 alert(`Vamos recaptular: ${name || 'Você não me disse seu nome, mas'}, você tem ${age || 'receio de falar a sua idade'} e estuda ${learn || 'uma linguagem de programação secreta!'}`);
 
