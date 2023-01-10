@@ -1,4 +1,4 @@
-// Para filtrar um array usa-se o método filter()
+// Para filtrar um array usa-se o método filter() -> retorna sempre a mesma quantidade de elementos ou menos.
 
 const number = [5, 50, 80, 1, 2, 3, 5, 8, 7, 11, 15, 20, 22, 27];
 const filteredNumber = number.filter(value => value > 10);
