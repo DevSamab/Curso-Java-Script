@@ -9,5 +9,5 @@
 </p>
 
 <p>
-  Esse reposutório serve como um bom backup de códigos e estrutura de códigos para tirar dúvidas no processo de produção de meus futuros projetos.
+  Esse reposutório serve como um bom backup de códigos e estrutura de códigos para tirar dúvidas no processo de produção de meus futuros projetos. Alguns dos projetos mais elaborados fui curso serão expostos em repositórios próprios.
 </p>
