@@ -44,5 +44,5 @@ function ValidaCPF(cpfEnviado) {
   if(cpf.valida()) {
     console.log('CPF válido');
   } else {
-    console.log('CP inválido');
+    console.log('CPF inválido');
   }
