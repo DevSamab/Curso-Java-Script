@@ -1,7 +1,7 @@
 # Curso Java Script
 
 <p>
-  Repositório com as atividades e anotações do curso de Javascript.
+  Repositório com as atividades e anotações do curso de Javascript cursado através da Udemy.
 </p>
 
 <p>
